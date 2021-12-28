@@ -1,0 +1,10 @@
+{
+	"ApiId" : "bee.noviewmodel",
+	"Name": "noviewmodel",
+	"Description": "gets rid of all viewmodels (except the thunderbolt bc it was annoying)",
+  	"RequiredOnClient": true,
+	"Version": "1.0.0",
+	"Authors": ["bee"],
+	"LoadPriority": 2
+
+}
